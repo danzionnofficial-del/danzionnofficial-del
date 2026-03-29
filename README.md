@@ -45,7 +45,7 @@ I enjoy learning new things, reading articles, and exploring how technology work
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danzionnofficial-del" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danzionnofficial-del&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
