@@ -53,7 +53,7 @@ I enjoy learning new things, reading articles, and exploring how technology work
 ## 📺 YouTube
 <p align="center">
   <a href="https://www.youtube.com/@DanzionnOfficial">
-    <img src="https://img.shields.io/badge/YouTube-DanzionnOfficial-red?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://github-readme-stats.vercel.app/api?username=danzionnofficial-del" />
   </a>
 </p>
 
