@@ -5,9 +5,11 @@
 
 ## 🧠 About Me
 I’m a passionate developer from Indonesia, currently focusing on web development.  
-My long-term goal is to build **games, animations, and professional web products / startups**.
+My long-term goal is to build games, animations, and professional web products / startups.
 
 I enjoy learning new things, reading articles, and exploring how technology works.
+
+I also enjoy creating logos and exploring visual design as a addictional skill.
 
 ---
 
